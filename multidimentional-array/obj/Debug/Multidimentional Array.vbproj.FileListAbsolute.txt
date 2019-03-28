@@ -1,0 +1,12 @@
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\bin\Debug\Multidimentional Array.exe.config
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\bin\Debug\Multidimentional Array.exe
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\bin\Debug\Multidimentional Array.pdb
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\bin\Debug\Multidimentional Array.xml
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\obj\Debug\Multidimentional Array.vbprojAssemblyReference.cache
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\obj\Debug\Multidimentional_Array.Form1.resources
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\obj\Debug\Multidimentional_Array.Resources.resources
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\obj\Debug\Multidimentional Array.vbproj.GenerateResource.cache
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\obj\Debug\Multidimentional Array.vbproj.CoreCompileInputs.cache
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\obj\Debug\Multidimentional Array.exe
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\obj\Debug\Multidimentional Array.xml
+C:\Users\niger\AppData\Local\Temporary Projects\Multidimentional Array\obj\Debug\Multidimentional Array.pdb
